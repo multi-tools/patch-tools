@@ -19,7 +19,7 @@
 
     <properties>
         <cglib.version>3.2.4</cglib.version>
-        <common.beanutils.version>1.9.3</common.beanutils.version>
+        <common.beanutils.version>1.9.4</common.beanutils.version>
         <compiler.plugin.version>3.8.0</compiler.plugin.version>
         <junit.version>4.12</junit.version>
         <lombok.version>1.18.4</lombok.version>
